@@ -1,0 +1,2 @@
+I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\obj\x86\Debug\JournalSoft.Resources.resources
+I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\obj\x86\Debug\JournalSoft.vbproj.GenerateResource.Cache
