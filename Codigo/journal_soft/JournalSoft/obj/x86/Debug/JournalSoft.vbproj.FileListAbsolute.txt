@@ -7,3 +7,4 @@ I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\obj\x86\Debug\J
 I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\obj\x86\Debug\JournalSoft.exe
 I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\obj\x86\Debug\JournalSoft.xml
 I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\obj\x86\Debug\JournalSoft.pdb
+I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\obj\x86\Debug\JournalSoft.FrmPrincipal.resources
