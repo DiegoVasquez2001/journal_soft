@@ -1,2 +1,9 @@
 I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\obj\x86\Debug\JournalSoft.Resources.resources
 I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\obj\x86\Debug\JournalSoft.vbproj.GenerateResource.Cache
+I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\bin\Debug\JournalSoft.exe
+I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\bin\Debug\JournalSoft.pdb
+I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\bin\Debug\JournalSoft.xml
+I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\obj\x86\Debug\JournalSoft.FrmLogin.resources
+I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\obj\x86\Debug\JournalSoft.exe
+I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\obj\x86\Debug\JournalSoft.xml
+I:\Derecho Informático\Software\Codigo\journal_soft\JournalSoft\obj\x86\Debug\JournalSoft.pdb
